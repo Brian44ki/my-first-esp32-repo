@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../260623-121009-arduino-blink"
+		},
+		{
+			"name": "esp32visualstudioprojects",
+			"path": "../../esp32visualstudioprojects"
+		},
+		{
+			"name": "esp32blink test",
+			"path": "../../esp32blink test"
+		},
+		{
+			"name": "esp32 VISUAL STUDIO PROJECTS",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
