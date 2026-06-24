@@ -1,17 +1,19 @@
 #include <Arduino.h>
 
-
+int ledpin=2;
+int delaytime=700;
 
 void setup() {
-  pinMode(2,OUTPUT);
+  pinMode(ledpin,OUTPUT);
   
 }
 
 void loop() {
-  digitalWrite(2,HIGH);
-  delay(200);
+  digitalWrite(ledpin,HIGH);
+  delay(delaytime);
   digitalWrite(2,LOW);
-  delay(200);
+  delay(delaytime);
+
 
 
 }
